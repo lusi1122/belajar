@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>TABEL BIODATA</title>
+	<font style color="black";>
+</head>
+<body>
+	<Center><h1>TABEL BIODATA</h1></Center>
+	<font style color="black";>
+	<table border="1" cellpading="0" cellspacing="0" align="Center" width="800"
+	<tr style="background-color: rgb(160, 154, 154);">
+	<body style="background-color:rgb(165, 178, 235)">
+	
+		<thead>
+			<tr>
+				<th>NO</th>
+				<th>NIM</th>
+				<th>NAMA</th>
+				<th>JENIS KELAMIN</th>
+				<th>STATUS</th>
+                <th>NO.TELEPON</th>
+                <th>ALAMAT</th>
+				</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<tr align="center">
+				<td>1</td>
+				<td>21120110009</td>
+				<td>Lusi</td>
+				<td>Perempuan</td>
+				<td>Belum Menikah</td>
+                <td>088212622014</td>
+                <td>Jalan Bumi Raya VI</td>
+                </td>
+			</tr>
+			<tr>
+				<tr align="center">
+				<td>2</td>
+				<td>21120110012</td>
+				<td>Alvian</td>
+				<td>Laki-Laki</td>
+				<td>Menikah</td>
+                <td>082457688123</td>
+                <td>Jalan Mawar Merah</td>
+                </td>
+			</tr>
+			<tr>
+				<tr align="center">
+				<td>3</td>
+				<td>21121110002</td>
+				<td>Kamila</td>
+				<td>Perempuan</td>
+                <td>Menikah</td>
+				<td>088212622155</td>
+                <td>Jalan Nusa Indah</td>
+                </td>
+			</tr>
+			<tr>
+				<tr align="center">
+				<td>4</td>
+				<td>21121110011</td>
+				<td>Junior</td>
+				<td>Laki-Laki</td>
+                <td>Belum Menikah</td>
+				<td>083547886472</td>
+                <td>Jalan Bunga Rampai</td>
+				</td>
+			</tr>
+			<tr>
+				<tr align="center">
+				<td>5</td>
+				<td>21120110030</td>
+				<td>Radiya</td>
+				<td>Perempuan</td>
+				<td>Belum Menikah</td>
+				<td>082287652134</td>
+				<td>Jalan Kelurahan III</td>
+				</td>
+			</tr>
+			<tr>
+				<tr align="center">
+				<td>6</td>
+				<td>20112011031</td>
+				<td>Gangga</td>
+				<td>Perempuan</td>
+				<td>Menikah</td>
+				<td>087721560987</td>
+				<td>Jalan Basuki Rachmat</td>
+			</tr>
+			<tr>
+		</tbody>
+	</table>
+</body>
+</html>
